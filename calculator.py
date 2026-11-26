@@ -1,6 +1,5 @@
 a = b = ''
 
-
 while not (a.isdigit() and b.isdigit()):
     a = input('Entrez le premier nombre: ')
     b = input('Entrez le deuxième nombre: ')

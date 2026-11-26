@@ -1,0 +1,1 @@
+# Créer un programme qui permet de retirer des liste de 
